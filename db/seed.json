@@ -1,0 +1,21 @@
+[
+  { "id": 80, "name": "チーズナンセット", "category": "ナンセット", "price": 1045, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 81, "name": "バターチキンセット", "category": "ナンセット", "price": 990, "soldOut": false, "stock": 30, "options": [{ "name": "ナンを変更", "choices": [{ "name": "プレーンナン", "extraPrice": 0 }, { "name": "チーズナン", "extraPrice": 330 }, { "name": "ガーリックナン", "extraPrice": 110 }, { "name": "ごまナン", "extraPrice": 110 }, { "name": "チョコナン", "extraPrice": 220 }, { "name": "ハニーナン", "extraPrice": 110 }, { "name": "ハニーチーズナン", "extraPrice": 440 }] }, { "name": "辛さ", "choices": [{ "name": "0", "extraPrice": 0 }, { "name": "1", "extraPrice": 0 }, { "name": "2", "extraPrice": 0 }] }, { "name": "ご飯大盛り", "choices": [{ "name": "なし", "extraPrice": 0 }, { "name": "大盛り", "extraPrice": 100 }] }] },
+  { "id": 82, "name": "ほうれん草セット", "category": "ナンセット", "price": 990, "soldOut": false, "stock": 30, "options": [{ "name": "ナンを変更", "choices": [{ "name": "プレーンナン", "extraPrice": 0 }, { "name": "チーズナン", "extraPrice": 330 }, { "name": "ガーリックナン", "extraPrice": 110 }, { "name": "ごまナン", "extraPrice": 110 }, { "name": "チョコナン", "extraPrice": 220 }, { "name": "ハニーナン", "extraPrice": 110 }, { "name": "ハニーチーズナン", "extraPrice": 440 }] }, { "name": "辛さ", "choices": [{ "name": "0", "extraPrice": 0 }, { "name": "1", "extraPrice": 0 }, { "name": "2", "extraPrice": 0 }] }, { "name": "ご飯大盛り", "choices": [{ "name": "なし", "extraPrice": 0 }, { "name": "大盛り", "extraPrice": 100 }] }] },
+  { "id": 83, "name": "サントリー生ビールとチキンティッカ（2個）", "category": "サブメニュー", "price": 800, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 84, "name": "プレーンナン", "category": "ナン単品", "price": 300, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 85, "name": "チーズナン", "category": "ナン単品", "price": 660, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 86, "name": "ガーリックナン", "category": "ナン単品", "price": 440, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 87, "name": "ごまナン", "category": "ナン単品", "price": 440, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 88, "name": "チョコナン", "category": "ナン単品", "price": 550, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 89, "name": "ハニーナン", "category": "ナン単品", "price": 440, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 90, "name": "ハニーチーズナン", "category": "ナン単品", "price": 770, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 91, "name": "味まる屋スペシャルセット", "category": "ナンセット", "price": 1980, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 92, "name": "チキンティッカ 2個", "category": "サブメニュー", "price": 330, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 93, "name": "チキンティッカ 5個", "category": "サブメニュー", "price": 660, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 94, "name": "チキンチリ", "category": "サブメニュー", "price": 990, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 95, "name": "タンドリーチキン", "category": "サブメニュー", "price": 450, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 96, "name": "タンドリーチキン", "category": "サブメニュー", "price": 800, "soldOut": false, "stock": 30, "options": [] },
+  { "id": 97, "name": "ラッシー", "category": "ドリンク", "price": 330, "soldOut": false, "stock": 30, "options": [{ "name": "サイズ", "choices": [{ "name": "通常", "extraPrice": 0 }, { "name": "男前（大）ジョッキ", "extraPrice": 150 }] }] },
+  { "id": 98, "name": "マンゴーラッシー", "category": "ドリンク", "price": 440, "soldOut": false, "stock": 30, "options": [{ "name": "サイズ", "choices": [{ "name": "通常", "extraPrice": 0 }, { "name": "男前（大）ジョッキ", "extraPrice": 150 }] }] }
+]
